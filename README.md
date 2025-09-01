@@ -1,0 +1,4 @@
+- 2x Ultrasonic Sensors.
+- 1x Microcontroller (Arduino/ESP32, either will work).
+- Jumper Cables.
+- Usb Port for the PC.
